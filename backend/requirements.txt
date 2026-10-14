@@ -1,0 +1,15 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+openai>=1.55
+python-dotenv==1.0.1
+websockets==13.1
+pydantic==2.9.2
+sentence-transformers==3.1.1
+numpy>=1.26
+# evaluation (experiments/)
+pandas>=2.0
+pyarrow>=14
+scikit-learn>=1.4
+scipy>=1.11
+matplotlib>=3.8
+pytest>=8.0
